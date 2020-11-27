@@ -13,7 +13,7 @@
 
 ## Project Description
 
-Use the file `dataset_test.ipynb` to transform the data in order to use in the build model. After that, run the `model_test.ipynb` to get your predictions.
+Use the file `dataset_test.ipynb` to transform the data in order to use in the build model. This file is give to you a `.csv` with index and the prediction.
 
 <a name="dataset"></a>
 
